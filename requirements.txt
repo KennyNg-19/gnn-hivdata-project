@@ -1,5 +1,7 @@
 pandas
-pytorch
+# pytorch
 pillow
 torch
 torch-geometric
+tqdm
+deepchem
